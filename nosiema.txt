@@ -1,0 +1,8 @@
+tabela3(h1,h2,r3,r4)
+r1;r2;f4;r4
+r3;r4;f4;r4
+endtable
+tabela4(h3,h4,f5,r4)
+r5;r6;r4;r4
+r7;r8;r4;r4
+endtable
